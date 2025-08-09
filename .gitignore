@@ -1,0 +1,24 @@
+/target
+/templates
+/static
+
+# Secrets
+*.env
+
+# Backup files created by editors
+*~
+*.swp
+*.kate-swp
+
+# IDE files
+.idea/
+.vscode/
+.vs/
+
+# Database files
+.migrations/
+*.db
+
+*.txt
+*.log
+*.backup
